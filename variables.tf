@@ -1,5 +1,7 @@
 variable "ami"{
     type = string
+    default     = "ami-01760eea5c574eb86"
+
 }
 
 variable "instance_type"{
@@ -9,4 +11,6 @@ variable "instance_type"{
 
 variable "environment"{
     type = string
+  default     = "dev"
+
 }
