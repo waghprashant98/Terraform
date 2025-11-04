@@ -1,3 +1,4 @@
 
-ami = "ami-0e1d06225679bc1c5" 
+ami = "ami-01760eea5c574eb86"
+
 instance_type = "t2.micro"
